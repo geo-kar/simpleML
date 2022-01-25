@@ -13,6 +13,5 @@ At the end we run the final function which classifies an example set of images a
 success rate of the algorithm.
 
 
-!!!The algoritm is not finalised and needs optimisation in order to have better success rate!!!
 
 2020
